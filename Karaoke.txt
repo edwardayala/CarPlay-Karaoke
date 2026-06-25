@@ -1,1 +1,1 @@
-https://lrclib.net/api/get?track_name={track}&artist_name={artist}&album_name={album}&duration={duration}
+https://[SAMPLEURL]/api/get?track_name={track}&artist_name={artist}&album_name={album}&duration={duration}
