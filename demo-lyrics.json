@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "trackName": "Demo Drive",
+  "artistName": "Karaoke Demo",
+  "albumName": "App Review Demo",
+  "duration": 60,
+  "plainLyrics": "Headlights roll across the avenue\nWe find the beat in every passing view\nTurn the chorus up and let it ride\nSinging with the skyline by our side",
+  "syncedLyrics": "[00:00.00]Headlights roll across the avenue\n[00:05.00]We find the beat in every passing view\n[00:10.00]Turn the chorus up and let it ride\n[00:15.00]Singing with the skyline by our side\n[00:20.00]Every green light keeps the rhythm alive\n[00:25.00]We carry the melody into the night",
+  "instrumental": false
+}
