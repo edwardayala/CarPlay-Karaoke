@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/edwardayala/CarPlay-Karaoke/main/demo-lyrics.json?track={track}&artist={artist}
+https://lrclib.net/api/get?track_name={track}&artist={artist}&album={album}&duration={duration}
